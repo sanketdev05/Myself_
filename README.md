@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @psychoprogrammer05
+- 👋 Hi, I’m @sanket
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on ...
